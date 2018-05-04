@@ -15,3 +15,5 @@ nmap <Leader>v :edit ~/.vimrc
 "nnoremap <silent> <c-p> :TmuxNavigatePrevious<cr>
 
 set number relativenumber
+
+set g:tmpl_search_paths = ['~/.vim/templates']
