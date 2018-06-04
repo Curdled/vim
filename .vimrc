@@ -16,4 +16,4 @@ nmap <Leader>v :edit ~/.vimrc
 
 set number relativenumber
 
-set g:tmpl_search_paths = ['~/.vim/templates']
+let g:tmpl_search_paths=['~/.vim/templates']
