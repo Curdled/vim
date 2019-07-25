@@ -10,3 +10,6 @@
 [submodule "pack/plugins/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/plugins/start/souffle.vim"]
+	path = pack/plugins/start/souffle.vim
+	url = https://github.com/souffle-lang/souffle.vim
